@@ -13,7 +13,7 @@ import com.example.shafy.whatsthere.Utils.Sources;
 import com.squareup.picasso.Picasso;
 
 /**
- * Created by shafy on 15/12/2016.
+ * Created by mina essam on 15/12/2016.
  */
 
 public class SourcesListAdapter extends BaseAdapter {
