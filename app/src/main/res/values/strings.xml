@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">What\'s There</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_sidebar">MainSidebar</string>
+    <string name="title_activity_news_details">Article&#160;Details</string>
+    <string name="title_activity_favourite">Favourite</string>
+    <string name="unknown">Unknown</string>
+    <string name="by">by&#160;:&#160;</string>
+    <string name="a">by Unknown</string>
+</resources>

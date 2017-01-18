@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/favorite"
+        android:icon="@drawable/ic_favorite_black_48px"
+        android:title="Favorite" />
+
+
+
+    <item android:title="Categories">
+        <menu>
+            <item
+                android:id="@+id/general"
+                android:icon="@drawable/ic_public_black_48px"
+                android:title="General" />
+            <item
+                android:id="@+id/business"
+                android:icon="@drawable/ic_trending_up_black_48px"
+                android:title="Business" />
+            <item
+                android:id="@+id/music"
+                android:icon="@drawable/ic_play_circle_outline_black_48px"
+                android:title="Music" />
+
+            <item
+                android:id="@+id/technology"
+                android:icon="@drawable/ic_usb_black_48px"
+                android:title="Technology" />
+            <item
+                android:id="@+id/entertainment"
+                android:icon="@drawable/ic_theaters_black_48px"
+                android:title="Entertainment" />
+            <item
+                android:id="@+id/sport"
+                android:icon="@drawable/ic_directions_bike_black_48px"
+                android:title="Sport" />
+            <item
+                android:id="@+id/science_and_nature"
+                android:icon="@drawable/ic_account_balance_black_48px"
+                android:title="Science" />
+            <item
+                android:id="@+id/gaming"
+                android:icon="@drawable/ic_gamepad_black_48px"
+                android:title="Gaming" />
+
+
+
+        </menu>
+    </item>
+
+</menu>
